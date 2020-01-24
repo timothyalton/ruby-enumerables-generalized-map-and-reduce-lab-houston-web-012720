@@ -1,4 +1,4 @@
-def map
+def map(array)  
  
  yield
 end
