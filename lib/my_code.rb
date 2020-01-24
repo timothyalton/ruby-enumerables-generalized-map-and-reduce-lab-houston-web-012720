@@ -1,4 +1,4 @@
-def my_own_map(source_array)
+def map
  
  yield
 end
