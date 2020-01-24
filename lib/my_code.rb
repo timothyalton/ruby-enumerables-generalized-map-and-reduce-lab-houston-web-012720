@@ -8,6 +8,4 @@ def map(array)
  new_array
 end
 
-map(array).map do |n|
-  n * -1
-end 
+
